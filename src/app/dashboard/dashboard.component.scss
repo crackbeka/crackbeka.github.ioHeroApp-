@@ -1,0 +1,23 @@
+.topHeroes {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+}
+
+.herobutton {
+    padding: 40px;
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(90, 90, 206);
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.herobutton:hover {
+    background-color: white;
+    color: blue;
+}
